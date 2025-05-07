@@ -1,0 +1,8 @@
+# configs/topo.yaml
+
+topology:
+  routers:
+    - name: R1
+      ip: 192.168.1.1
+    - name: R2
+      ip: 192.168.1.2
